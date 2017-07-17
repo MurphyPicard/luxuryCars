@@ -1,0 +1,26 @@
+body{
+  background-image: url("https://images.template.net/wp-content/uploads/2015/11/25190801/Hd-Wallpapers-Cool-Plain-Backgrounds-Download.jpg");
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-content: center;
+}
+
+img{
+  width: 100%;
+}
+
+
+}
+.threecars{
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.0);
+  height: 100px;
+  width: 150px;
+}
+
+.threecars > img{
+  width: 100%;
+}
